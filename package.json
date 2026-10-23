@@ -1,0 +1,14 @@
+{
+  "name": "second-brain-herramientas",
+  "private": true,
+  "type": "module",
+  "description": "Las herramientas de Second Brain. La app vive en app/.",
+  "scripts": {
+    "doctor": "node herramientas/doctor.mjs",
+    "publicar": "node herramientas/publicar.mjs",
+    "crear-usuario": "node herramientas/base.mjs crear-usuario",
+    "notas": "node herramientas/notas.mjs bajar",
+    "app": "cd app && npm run dev"
+  },
+  "engines": { "node": ">=18" }
+}

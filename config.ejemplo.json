@@ -1,0 +1,6 @@
+{
+  "nombre": "Tu nombre (sale en el saludo de la app)",
+  "correo": "<el correo con el que vas a entrar a la app>",
+  "supabase_ref": "<las letras de tu proyecto: https://ESTO.supabase.co>",
+  "cloudflare_proyecto": "<el nombre de tu sitio, por ejemplo second-brain-ana>"
+}

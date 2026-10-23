@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <!-- Android recorta en circulo: el dibujo cabe en el 80% central. -->
+  <rect width="512" height="512" fill="#eeeeee"/>
+  <g transform="translate(256 262) scale(0.86) translate(-255 -238)">
+    <path d="M312 352H372C410 352 432 320 430 282C426 190 345 125 255 125C155 125 80 190 80 280C80 325 105 352 150 352H190C240 352 280 322 300 290" stroke="#1f2326" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="316" cy="266" r="28" fill="#FF6A3D"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+# Lo tuyo: nunca a este repo.
+config.local.json
+.secrets/
+cuaderno/
+
+# La app
+node_modules/
+app/node_modules/
+app/dist/
+app/.env.local
+app/.wrangler/
+*.tsbuildinfo
+
+# Sistema
+.DS_Store
+Thumbs.db
