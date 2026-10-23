@@ -85,6 +85,14 @@ export function Marco({
           <Enlace p="capturar" texto="Notas" Icono={IconoNota} />
           <Enlace p="historial" texto="Historial" Icono={IconoHistorial} />
         </nav>
+        <a
+          href="https://javiernieto.net/profesional/recursos/"
+          target="_blank"
+          rel="noopener"
+          className="flex min-h-11 items-center px-5 text-xs text-texto3 hover:text-azul"
+        >
+          Second Brain, por Javier Nieto
+        </a>
         <div className="flex items-center gap-3 border-t border-linea px-4 py-3">
           <span className="grid h-9 w-9 shrink-0 place-items-center rounded-full bg-azul text-sm font-semibold text-white uppercase">
             {correo.slice(0, 1)}

@@ -1,6 +1,8 @@
-<p align="center"><img src="app/public/marca/second-brain-icono.svg" width="96" alt=""></p>
+<img src="app/public/marca/second-brain.svg" width="72" alt="">
 
 # Second Brain
+
+**por Javier Nieto** · una de [mis herramientas abiertas](https://javiernieto.net/profesional/recursos/)
 
 **Dicta lo que piensas desde el teléfono. Claude lo ordena por ti.** Tus notas quedan limpias, conectadas
 y en tu propio cuaderno; lo que tienes que hacer queda en una lista con racha y logros.
