@@ -66,7 +66,7 @@ un sitio estático (`app/dist`).
 Abre una **carpeta vacía** en Claude Code (en la terminal o en VS Code) y pégale esto:
 
 ```text
-Instala Second Brain de REPO_URL en esta carpeta. Clónalo, sigue la sección «Instalar» de su CLAUDE.md paso por paso conmigo, y al final corre npm run doctor y dime qué quedó listo y qué me toca a mí.
+Instala Second Brain de https://github.com/javieranieto/second-brain-app en esta carpeta. Clónalo, sigue la sección «Instalar» de su CLAUDE.md paso por paso conmigo, y al final corre npm run doctor y dime qué quedó listo y qué me toca a mí.
 ```
 
 Claude te va a pedir crear tus cuentas, pegar tu llave de Supabase **en un archivo** (nunca en el chat),
@@ -77,7 +77,7 @@ cuaderno en `cuaderno/`, y tu primera nota procesada.
 <summary>Los pasos a mano (si no usas Claude Code para instalar)</summary>
 
 ```bash
-git clone REPO_URL second-brain && cd second-brain
+git clone https://github.com/javieranieto/second-brain-app && cd second-brain-app
 cp config.ejemplo.json config.local.json      # llénalo
 mkdir .secrets                                 # pega tu access token de Supabase en .secrets/supabase-token.txt
 node herramientas/base.mjs aplicar
